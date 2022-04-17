@@ -1,0 +1,16 @@
+mark =40
+if mark>= 33:
+    print("pass")
+else:
+    print("fail")
+    
+   [ answer 'pass']
+   
+   
+   mark ==20
+if mark>= 33:
+    print("pass")
+else:
+    print("fail")
+    
+    [ answer 'fail']
