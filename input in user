@@ -1,0 +1,5 @@
+name =input("my name: ")
+age =input("my age: ")
+
+print("name: ",name)
+print("age:", )
